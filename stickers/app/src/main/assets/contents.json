@@ -7,7 +7,7 @@
       "name": "לבבות",
       "publisher": "כלנית",
       "tray_image_file": "love.png",
-      "publisher_email":"",
+      "publisher_email":"caloola.gift@gmail.com",
       "publisher_website": "",
       "privacy_policy_website": "",
       "license_agreement_website": "",
@@ -39,8 +39,8 @@
       "name": "פרחים",
       "publisher": "כלנית",
       "tray_image_file": "flower.png",
-      "publisher_email":"Caloola.gift@gmail.com",
-      "publisher_website": "www.caloola.co.il",
+      "publisher_email":"caloola.gift@gmail.com",
+      "publisher_website": "",
       "privacy_policy_website": "",
       "license_agreement_website": "",
       "stickers": [
@@ -71,8 +71,8 @@
       "name": "חמסות",
       "publisher": "כלנית",
       "tray_image_file": "hamsa.png",
-      "publisher_email":"Caloola.gift@gmail.com",
-      "publisher_website": "www.caloola.co.il",
+      "publisher_email":"caloola.gift@gmail.com",
+      "publisher_website": "",
       "privacy_policy_website": "",
       "license_agreement_website": "",
       "stickers": [
@@ -91,10 +91,6 @@
         {
           "image_file": "hamsa_4.webp",
           "emojis": ["😩","😰"]
-        },
-        {
-          "image_file": "hamsa_5.webp",
-          "emojis": ["😭","💧"]
         }
       ]
     }
