@@ -10,7 +10,7 @@
     <string name="title_activity_sticker_pack_details_single_pack">קטגוריה</string>
     <string name="title_activity_sticker_pack_details_multiple_pack">פרטי המדבקה</string>
     <string name="title_activity_sticker_pack_info">מידע נוסף</string>
-    <string name="view_webpage">https://caloola.co.il</string>
+    <string name="view_webpage">הצג דף אינטרנט</string>
     <string name="send_email">שלח מייל</string>
     <string name="privacy_policy">מדיניות הפרטיות</string>
     <string name="error_adding_sticker_pack">לא ניתן להוסיף את חבילת המדבקות הזו. אנא התקן את הגרסה העדכנית ביותר של WhatsApp לפני הוספת חבילת מדבקות</string>
@@ -22,4 +22,5 @@
     <string name="add_pack_fail_prompt_update_whatsapp">חבילת מדבקה לא נוספה. אם אתה רוצה להוסיף אותו, הקפד לעדכן את הגרסה האחרונה של WhatsApp.</string>
     <string name="add_pack_fail_prompt_update_play_link">עדכן</string>
     <string name="cannot_find_play_store">Google Play אינו מותקן במכשיר.</string>
+    <string name="website">https://caloola.co.il</string>
 </resources>
