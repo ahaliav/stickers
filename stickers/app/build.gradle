@@ -7,7 +7,7 @@ android {
     }
     compileSdkVersion 28
     defaultConfig {
-        applicationId "com.ahaliav.caloola"
+        applicationId "ahaliav.fox.caloola"
         minSdkVersion 23
         targetSdkVersion 28
         versionCode 4

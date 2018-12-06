@@ -22,4 +22,5 @@
     <string name="add_pack_fail_prompt_update_whatsapp">חבילת מדבקה לא נוספה. אם אתה רוצה להוסיף אותו, הקפד לעדכן את הגרסה האחרונה של WhatsApp.</string>
     <string name="add_pack_fail_prompt_update_play_link">עדכן</string>
     <string name="cannot_find_play_store">Google Play אינו מותקן במכשיר.</string>
+    <string name="website">https://caloola.co.il</string>
 </resources>
